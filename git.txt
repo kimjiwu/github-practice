@@ -15,4 +15,4 @@ git checkout - : 이전 커밋으로 되돌아감
 
 git remote add origin [저장소 주소] : 외부 저장소와 연결
 git remote remove origin : 연결되어있는 외부 젖아소 끊기
-git remote -v : 현재 연결되어있는 외부 저장소 정보 
+git remote -v : 현재 연결되어있는 외부 저장소 정보 sdg
